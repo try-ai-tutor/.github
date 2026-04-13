@@ -56,4 +56,5 @@ tail (p90 iterations) collapsed from 37 to 18.
 The prompt-only variant is an experiment in teaching prompt engineering as a
 graded skill — same grader, new input modality.
 
-Built and managed with [Claude Code](https://claude.ai/code).
+Built and managed with [Claude Code](https://claude.ai/code),
+[Gemini](https://gemini.google.com), and [Grok](https://grok.com).
