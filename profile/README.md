@@ -32,6 +32,17 @@ which generates `exercise.py` on your behalf. The same pytest suite grades the
 generated code. The challenge: communicate your intent clearly enough that the
 LLM produces a correct solution.
 
+## If accepting the assignment fails with a 500 error
+
+GitHub Classroom sometimes returns a 500 error when you accept an assignment.
+The repo gets created, but you are not added as a collaborator — so you cannot
+see or push to it.
+
+You cannot fix this yourself (no access = no way to request access through
+GitHub). Contact the instructor out-of-band (email or course channel) with
+your GitHub username and the assignment name. The only known fix is for the
+instructor to add you manually as a collaborator.
+
 ## What's behind the curtain
 
 ```
