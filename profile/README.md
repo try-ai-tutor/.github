@@ -3,6 +3,8 @@
 AI-tutored auto-grading pipeline for programming assignments.
 Try it yourself — no setup required.
 
+📖 **Learn more:** <https://try-ai-tutor.github.io/wiki/>
+
 ## How it works
 
 1. **Accept** an assignment link below
